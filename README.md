@@ -1,11 +1,9 @@
 # Mate Chachkhiani
-
 Computer Science student at LaSalle College with experience building full-stack applications and solving algorithmic problems. I enjoy developing practical software projects, learning new technologies, and collaborating on team-based development.
 
 ---
 
 ## Links
-
 [Portfolio](https://portfolio-pdxj-1st8yrtgx-mate-1996s-projects.vercel.app)  
 [LinkedIn](https://www.linkedin.com/in/mate-chachkhiani-191196388)  
 [GitHub](https://github.com/Mate-1996)  
@@ -17,7 +15,7 @@ Computer Science student at LaSalle College with experience building full-stack 
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,python,php,js" />
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,js,ts" />
 </p>
 
 ### Frontend
@@ -27,25 +25,40 @@ Computer Science student at LaSalle College with experience building full-stack 
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## Projects
 
-### Moving Services Website
+### Tech Job Trends Analyzer, In Progress
+Full-stack application that scrapes remote tech job listings and provides search, filtering, and market trend analytics.
 
+Technologies: Python, Flask, Next.js, TypeScript, Firebase Firestore, BeautifulSoup
+
+- REST API with job search and filtering by title, location, and skill
+- Web scraper pulling live listings from RemoteOK's public API
+- Skill demand analytics showing the most in-demand technologies
+- JWT-based user authentication with password hashing
+- Automated background scraping every 12 hours via APScheduler
+- Save and manage favorite job listings
+
+[Repository](https://github.com/Mate-1996/Tech-Job-Trends-Analyzer)
+
+---
+
+### Moving Services Website
 Full-stack booking platform allowing users to schedule and pay for moving services.
 
 Technologies: React, Firebase, Stripe
@@ -60,7 +73,6 @@ Technologies: React, Firebase, Stripe
 ---
 
 ### Doodlemon Trading Card Game
-
 Application allowing players to collect and trade cards.
 
 - Card rarity system  
@@ -73,7 +85,6 @@ Application allowing players to collect and trade cards.
 ---
 
 ### Kakuro Puzzle Game
-
 Team project implementing a Kakuro puzzle game.
 
 - Algorithm to generate random, valid Kakuro puzzles  
@@ -86,7 +97,6 @@ Team project implementing a Kakuro puzzle game.
 ---
 
 ## Education
-
 D.E.C Computer Science, Programming  
 LaSalle College — Montreal, QC  
 2023 – Present
