@@ -48,7 +48,7 @@ Full-stack application that scrapes remote tech job listings and provides search
 Technologies: Python, Flask, Next.js, TypeScript, Firebase Firestore, BeautifulSoup
 
 - REST API with job search and filtering by title, location, and skill
-- Web scraper pulling live listings from RemoteOK's public API
+- Web scraper pulling live listings from WorkRemotely,LinkedIn and RemoteOk's public API
 - Skill demand analytics showing the most in-demand technologies
 - JWT-based user authentication with password hashing
 - Automated background scraping every 12 hours via APScheduler
