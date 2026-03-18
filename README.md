@@ -6,8 +6,7 @@ Computer Science student at LaSalle College with experience building full-stack 
 ## Links
 [Portfolio](https://portfolio-pdxj-1st8yrtgx-mate-1996s-projects.vercel.app)  
 [LinkedIn](https://www.linkedin.com/in/mate-chachkhiani-191196388)  
-[GitHub](https://github.com/Mate-1996)  
-[Resume](https://raw.githubusercontent.com/Mate-1996/Mate-1996/main/Mate%20Chachkhiani%20CV.pdf)
+[Resume](https://raw.githubusercontent.com/Mate-1996/Mate-1996/main/Mate%20Chachkhiani%20CV.pdf) (Download)
 
 ---
 
